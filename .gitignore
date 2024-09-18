@@ -1,0 +1,8 @@
+# Ignore Rust target directory in all sub-projects
+**/target/
+
+# Ignore backup files in all sub-projects
+**/*.rs.bk
+
+# Optionally ignore Cargo.lock files in all sub-projects
+# **/Cargo.lock
